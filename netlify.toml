@@ -1,0 +1,5 @@
+[[headers]]
+  for = "/Build/New folder.wasm.unityweb.br"
+  [headers.values]
+    Content-Encoding = "br"
+    Content-Type = "application/wasm"
